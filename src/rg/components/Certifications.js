@@ -36,9 +36,6 @@ class WorkWrapper extends React.Component {
                             >
                                 Oracle Certified Associate Java Programmer (OCAJP)
                             </h2>
-                            <h3 style={{ margin: 0, padding: 0 }}>
-                                Sep 2016 - Present (4 years 1 month)
-                            </h3>
                         </List.Content>
                     </List.Item>
                     <List.Item>
@@ -52,9 +49,6 @@ class WorkWrapper extends React.Component {
                             >
                                 Programming HTML5 and Java Script with CSS3
                             </h2>
-                            <h3 style={{ margin: 0, padding: 0 }}>
-                                Sep 2016 - Present (4 years 1 month)
-                            </h3>
                         </List.Content>
                     </List.Item>
                 </List>
