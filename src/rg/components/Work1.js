@@ -22,7 +22,7 @@ class Work1 extends React.Component {
                         Full stack Java Developer, DST World Wide Services India PVT Ltd. - Hyderabad, India
                     </h2>
                     <h3 style={{ margin: 0, padding: 0 }}>
-                        Sep 2016 - Present (4 years 1 month)
+                        Sep 2016 - Present (5 years 1 month)
                     </h3>
                     <List as="ul" style={{ marginLeft: 15 }}>
                         <List.Item as="li">
