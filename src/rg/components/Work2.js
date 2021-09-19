@@ -26,13 +26,13 @@ class Work2 extends React.Component {
                     </h3>
                     <List as="ul" style={{ marginLeft: 15 }}>
                         <List.Item as="li">
-                            Modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance
+                            Migrating application from WAS to Jboss servers
                         </List.Item>
                         <List.Item as="li">
-                            Direct software programming and development of documentation
+                            Developed tax filing application for client in US using JSF Prime faces.
                         </List.Item>
                         <List.Item as="li">
-                            Implemented project in JSF frame work which users to view or download the reports in Excel, PDF and XML formats
+                            Developed a claims processing engine for mortgage insurance on core java
                         </List.Item>
                         <List.Item as="li">
                             Developed web pages using HTML and Java Script to enable users to download the reports
