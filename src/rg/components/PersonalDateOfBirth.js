@@ -25,7 +25,7 @@ class PersonalDateOfBirth extends React.Component {
                         fontWeight: "normal"
                     }}
                 >
-                    16-Sep-1986
+                    07-Jul-1990
                 </h3>
             </div>
         );
