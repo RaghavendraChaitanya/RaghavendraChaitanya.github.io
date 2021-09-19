@@ -26,37 +26,36 @@ class EducationWrapper extends React.Component {
                 >
                     <EducationDetail
                         degree="Executive Program in Data Analytics"
-                        marks="CGPS-6.2"
-                        start="Jun 2004"
-                        end="May 2008"
+                        start="Aug 2019"
+                        end="Dec 2019"
                         institute="Indian Institute of Technology,
                         Raipur, Chhattisgarh, India"
                     />
                     <EducationDetail
                         degree="Bachelor of Technology (Computer Science)"
-                        marks="CGPS-6.2"
-                        start="Jun 2004"
-                        end="May 2008"
-                        institute="Birla Institute of Technology,
-                        Pilani, Rajasthan, India"
+                        marks="GPA-75"
+                        start="Sep 2007"
+                        end="May 2011"
+                        institute="DVR College of Technology,
+                        Hyderabad, Telangana, India"
                     />
 
                     <EducationDetail
                         degree="12th/Higher Secondary"
-                        marks="Marks-91.6%"
-                        start="Apr 2003"
-                        end="Mar 2004"
-                        institute="Saraswati Shishu Mandir, Mungeli,
-                            Chhatisgarh, India"
+                        marks="Marks-93.6%"
+                        start="Apr 2006"
+                        end="Mar 2007"
+                        institute="Narayana Junior College, Hyderabad,
+                            Telangana, India"
                     />
 
                     <EducationDetail
                         degree="10th/Senior Secondary"
-                        marks="Marks-90%"
-                        start="Apr 2001"
-                        end="Mar 2002"
-                        institute="Saraswati Shishu Mandir, Mungeli,
-                                Chhatisgarh, India"
+                        marks="Marks-88%"
+                        start="Apr 2004"
+                        end="Mar 2005"
+                        institute="MNR High School, Hyderabad,
+                                Telangana, India"
                     />
                 </List>
             </Segment>
