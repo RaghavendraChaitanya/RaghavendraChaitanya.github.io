@@ -40,7 +40,7 @@ class HeaderRight extends React.Component {
                         <List.Icon name="linkedin" size="large" />
                         <List.Content>
                             <h4>
-                                <a href="https://www.linkedin.com/in/samridhi-dubey/">
+                                <a href="https://www.linkedin.com/in/chaitanya-chodavarapu-30607a90/">
                                     LinkedIn
                                 </a>
                             </h4>
