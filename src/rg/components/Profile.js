@@ -33,7 +33,7 @@ class Profile extends React.Component {
                             </p>
                             <ul style={{ marginLeft: -25, marginBottom: 10 }}>
                                 <li style={{ marginBottom: 5 }}>
-                                    <b>Languages:</b> Java, R, HTML, JavaScript, Typescript, COBOL
+                                    <b>Languages:</b> Java, HTML, Prime faces, Typescript, CSS
                                 </li>
                                 <li style={{ marginBottom: 5 }}>
                                     <b>Frameworks:</b> Spring boot, Angular, JSF, Hibernate
@@ -45,13 +45,13 @@ class Profile extends React.Component {
                                     <b>Build Tools:</b> Maven
                                 </li>
                                 <li style={{ marginBottom: 5 }}>
-                                    <b>CI/CD: </b> Jenkins, Sonar
+                                    <b>CI/CD: </b> Jenkins
                                 </li>
                                 <li style={{ marginBottom: 5 }}>
                                     <b>Container: </b> Docker
                                 </li>
                                 <li style={{ marginBottom: 5 }}>
-                                    <b>Cloud Technologies: </b> AWS (EC2, RDS, S3)
+                                    <b>Cloud Technologies: </b> Basics of AWS (EC2, RDS, S3),Kubernetes
                                 </li>
                                 <li style={{ marginBottom: 5 }}>
                                     <b>Methodologies: </b> Agile(Scrum), Waterfall<br/><br/>
