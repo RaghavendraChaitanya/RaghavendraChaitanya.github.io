@@ -26,9 +26,7 @@ class Profile extends React.Component {
                         <List.Content style={{ paddingLeft: 10 }}>
                             <p>
                                 An experienced Java developer with a strong interest in projects that require both conceptual,
-                                analytical thinking and fully committed in designing and developing innovative applications. I
-                                am working as a Java developer since 4 years, before that I was
-                                working as a Senior Software Engineer in Mainframes for 3 years.
+                                analytical thinking and fully committed in designing and developing innovative applications.
                                 <br />
                                 <br />
                                 My skill set includes:
